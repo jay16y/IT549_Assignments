@@ -1,4 +1,3 @@
-# IT549_Assignment1
-# title :-Text Vectorization and Review Classification
+# IT549_Assignments
 Name :- Jay Patoliya Y.
 ID:-202301215
